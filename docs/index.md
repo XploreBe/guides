@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Usefull Resources
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Git
+[Write better commits, write better projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
 
-## Commands
+[My favourite git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Architecture
+[Hexagonal architecture](https://medium.com/ssense-tech/hexagonal-architecture-there-are-always-two-sides-to-every-story-bc0780ed7d9c)
+
+
+## AWS
+[ACloudGuru useful website to start learning](https://acloudguru.com/)
+
+[Former2 - scans aws account and can generate Infrastructure as code in several formats](https://former2.com/)
+
+
+[Good practice exams for AWS certification](https://www.udemy.com/user/jonjonbonso/)
