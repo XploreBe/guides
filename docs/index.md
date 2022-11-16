@@ -18,3 +18,10 @@
 
 
 [Good practice exams for AWS certification](https://www.udemy.com/user/jonjonbonso/)
+
+## TDD
+- [Where did it all go wrong - Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM)\
+We believe automated tests are essential to deliver high-quality software.
+The best way to achieve this is by using Test Driven Developent (TDD).
+This talk by Ian Cooper highlights some of the key misunderstandings about TDD.
+For example how we should on testing behavior instead of individual classes.
