@@ -24,4 +24,4 @@
 We believe automated tests are essential to deliver high-quality software.
 The best way to achieve this is by using Test Driven Developent (TDD).
 This talk by Ian Cooper highlights some of the key misunderstandings about TDD.
-For example how we should on testing behavior instead of individual classes.
+For example how we should focus on testing behavior instead of individual classes.
