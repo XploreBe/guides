@@ -25,3 +25,7 @@ We believe automated tests are essential to deliver high-quality software.
 The best way to achieve this is by using Test Driven Developent (TDD).
 This talk by Ian Cooper highlights some of the key misunderstandings about TDD.
 For example how we should focus on testing behavior instead of individual classes.
+
+## Kata's
+- [Gilded-Rose - Refactoring kata] (https://github.com/emilybache/GildedRose-Refactoring-Kata)
+Ever wanted to have a good challenge to test your refactoring skills? Try this Kata which is available in a wide range of programming languages. 
