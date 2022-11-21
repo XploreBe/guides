@@ -1,10 +1,14 @@
 # Usefull Resources
 
 ## Git
-[Write better commits, write better projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
+- [Write better commits, write better projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
 
-[My favourite git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
+- [My favourite git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
 
+- [Learn Git Branching](https://learngitbranching.js.org/)
+Interactive online resource to learn more about git branching while visualizing what effect your commands have.
+
+- [Customizing Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 
 
 ## Architecture
