@@ -27,7 +27,7 @@ This talk by Ian Cooper highlights some of the key misunderstandings about TDD.
 For example how we should focus on testing behavior instead of individual classes.
 
 ## Optional
-- [Optional, the mother of all bikesheds - Stuart Marks](https://www.youtube.com/watch?v=Ej0sss6cq14)
+- [Optional, the mother of all bikesheds - Stuart Marks](https://www.youtube.com/watch?v=Ej0sss6cq14)  
 Excellent talk from Stuart Marks about when and where to use or not use Optional.
 
 ## Kata's
