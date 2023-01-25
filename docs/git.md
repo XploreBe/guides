@@ -57,13 +57,13 @@ Your IDE does a lot for you but it pays to know the cli commands.
 * Develop the feature
 * Add the new files to git with `git add` or via the IDE
 * Commit the changes to the local branch with `git commit -m {message}` or via the IDE
-  * The first line of the commit should be the ticket number with a oneliner describing the ticker. for example `XPLR-100 Add OrderEndpoint`
+  * The first line of the commit should be the ticket number with a oneliner describing the ticket. for example `XPLR-100 Add OrderEndpoint`
   * Below the first line you can do what you want to describe what you did, why you did it, ... (look at [my favourite git commit](https://dhwthompson.com/2019/my-favourite-git-commit))
 * If needed make multiple commits if it makes sense
 * `git push` or via the IDE
 
 ### 6) Tips
-* It's possible to encounter a bug during development which isn't related to your ticker. If this is the case you can fix it and commit it to a separate commit. Doing this makes it possible to revert the ticker but still apply the fix for the bug you found.
+* It's possible to encounter a bug during development which isn't related to your ticket. If this is the case you can fix it and commit it to a separate commit. Doing this makes it possible to revert the ticket but still apply the fix for the bug you found.
 * Make a new ticket and place it on the backlog if the time requirement is too large.
 * Make sure each commit builds and runs.
 * Don't have 200 commits for one feature (or only have 1 commit for a very large change)
