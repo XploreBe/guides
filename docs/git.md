@@ -75,3 +75,30 @@ You would do this to make your git history to show a story of the development.
 This makes it easier for another person to review your ticket as the small steps(=commits) make sense and are smaller bite sized chunks to review.
 Check [this](https://github.blog/2022-06-30-write-better-commits-build-better-projects/) for more details.
 
+### 8) Git Rebase
+You have made a new branch to develop a feature and after a couple of days you are finished.
+But in the meanwhile the main branch has continued as other developers finished/merged their changes.
+You now have 2 options to get the latest changes into your feature branch.
+`git merge` or `git rebase`. with 
+
+#### Git merge
+You combine the changes from the main branch and your feature branch. Which most likely will be fixing numerous merge conflicts.
+In the git log you will see that you made a new Commit to merge them (see picture below).
+![merge](images/merge.png)
+
+#### Git rebase
+Imagine you have a main branch with having the last commit named A. When developing your feature you made commits B and C.
+Now you are finished but in the meanwhile commits D E and F have been applied on the main branch (because other developers merged their branches).
+With rebasing you take your commits B and C and put them at the end of the main branch.
+
+Before the rebase you had commits A B C in that order. When rebasing it would now be A D E F B C. Hopefully the picture below makes it a bit clearer.
+
+
+![alt text](images/rebase.svg)
+
+You can do a lot more with `git rebase` like merging commits, reordering commits. Have a look it interactively rebase in your IDE (Intellij for sure has this)
+In the end you need to push your change with `git push --force-with-lease` (read warning below)
+
+##### Warning on git rebase
+You ARE rewriting history, you can get into trouble if you are not careful and override someone else's changes. Because of this its recommended to only
+use `git rebase` if you are the only one working on that given branch.
