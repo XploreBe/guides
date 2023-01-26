@@ -39,4 +39,8 @@ Excellent talk from Stuart Marks about when and where to use or not use Optional
 
 ## Kata's
 - [Gilded-Rose - Refactoring kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-Ever wanted to have a good challenge to test your refactoring skills? Try this Kata which is available in a wide range of programming languages. 
+Ever wanted to have a good challenge to test your refactoring skills? Try this Kata which is available in a wide range of programming languages.
+
+## Time saving tools
+- [jq](https://stedolan.github.io/jq/)
+Handy tool to transform and analyse JSON. Processes input streamingly, so it can handle huge json structures without slowing down too much.
