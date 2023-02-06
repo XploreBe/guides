@@ -97,13 +97,12 @@ services:
 ````
 
 ## Usage
-
 Dependency-Track contains several useful features that can be helpful in tracking vulnerabilities within your infrastructure.
+
 ### Dashboard
 Grafana-like dashboard showing the general status of your applications. It indicates the total of vulnerable components, audited vulnerabilities, release overview of vulnerabilities, ...
 
 ### Projects
-
 List overview of your existing applications and their analysed version. It gives a representation of the severity for each application. Each application is assigned a risk score along with the total amount of vulnernabilities. 
 
 The risk score is a calculation based on severity and likeliness of all the detected vulnerabilities.
