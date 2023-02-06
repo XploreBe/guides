@@ -8,7 +8,7 @@ Supply chain attacks are in the rise. It is important that component providers a
 
 ## Setting up Dependency-Track
 The application itself has a straightforward and well-documented setup:
-- Deployment through WAR (deprecatec): https://docs.dependencytrack.org/getting-started/deploy-exewar/
+- Deployment through WAR (deprecated): https://docs.dependencytrack.org/getting-started/deploy-exewar/
 - Deployment though a docker container: https://docs.dependencytrack.org/getting-started/deploy-docker/
 
 The application will run 2 separate docker containers by default, frontend and backend separately. It's recommended that you also provide the application with its dedicated database.
@@ -124,4 +124,3 @@ These plugins will generate an SBOM while which you can (automatically) upload i
 ### Sources:
 - https://docs.dependencytrack.org/
 - https://www.cisa.gov/sbom
-
