@@ -9,7 +9,7 @@ Supply chain attacks are in the rise. It is important that component providers a
 ## Setting up Dependency-Track
 The application itself has a straightforward and well-documented setup:
 - Deployment through WAR (deprecated): https://docs.dependencytrack.org/getting-started/deploy-exewar/
-- Deployment though a docker container: https://docs.dependencytrack.org/getting-started/deploy-docker/
+- Deployment through a docker container: https://docs.dependencytrack.org/getting-started/deploy-docker/
 
 The application will run 2 separate docker containers by default, frontend and backend separately. It's recommended that you also provide the application with its dedicated database.
 
