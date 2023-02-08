@@ -4,7 +4,7 @@ Depencency Track is a tool that allows centralised monitoring of vulnerabilities
 An SBOM (Software Bill of Materials) is a "list of ingrediënts" that make up your software. This list is compared to a set of CVE reports to analyse the included vulnerabilities and their severity.
 
 ## Why would you need an SBOM?
-Supply chain attacks are in the rise. It is important that component providers also provide this format to ensure a certain level of security. The American government requires software suppliers to include an SBOM to ensure the safety and integrity of the components they are providing.
+Supply chain attacks are on the rise. It is important that component providers also provide this format to ensure a certain level of security. The American government requires software suppliers to include an SBOM to ensure the safety and integrity of the components they are providing.
 
 ## Setting up Dependency-Track
 The application itself has a straightforward and well-documented setup:
@@ -13,7 +13,7 @@ The application itself has a straightforward and well-documented setup:
 
 The application will run 2 separate docker containers by default, frontend and backend separately. It's recommended that you also provide the application with its dedicated database.
 
-I've set up a compose script that will help you start out. It contains the frontend, backend and dedicated postgres DB: 
+I've set up a docker-compose script that will help you start out. It contains the frontend, backend and dedicated postgres DB: 
 
 ````
 version: '3.7'
