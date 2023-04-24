@@ -40,3 +40,6 @@
 ## Kata's
 - [Gilded-Rose - Refactoring kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
   Ever wanted to have a good challenge to test your refactoring skills? Try this Kata which is available in a wide range of programming languages.
+
+- [Killercoda - Interactive environments](https://killercoda.com)
+  Not just a kata. Killercoda is an interactive environment to practice your command line skills, from linux basics to managing a kubernetes cluster. Provides training scenarios and playgrounds set up to mimick various certificate exam's environments.
