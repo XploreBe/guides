@@ -5,6 +5,8 @@ Git is a version control system.
 It allows teams to collaborate on a project. Git is considered to be the industry standard 
 version control system.
 
+[Online tutorial](https://learngitbranching.js.org/)
+
 ## Guide
 
 ### 1) Setup
