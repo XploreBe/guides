@@ -38,7 +38,7 @@ All commits will show the name and email configured. This will apply for all rep
 Same as the global one but it only applies to the current directory.
 This will make it possible to configure different emails/names for different projects(=clients).
 
-### 3) basic commands
+### 3) Basic commands
 Your IDE does a lot for you but it pays to know the cli commands.
 
 * `git fetch` fetches the latest state of the branches. You then know if you need to pull any changes
