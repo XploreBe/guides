@@ -5,6 +5,8 @@ Git is a version control system.
 It allows teams to collaborate on a project. Git is considered to be the industry standard 
 version control system.
 
+[Online tutorial](https://learngitbranching.js.org/)
+
 ## Guide
 
 ### 1) Setup
@@ -36,7 +38,7 @@ All commits will show the name and email configured. This will apply for all rep
 Same as the global one but it only applies to the current directory.
 This will make it possible to configure different emails/names for different projects(=clients).
 
-### 3) basic commands
+### 3) Basic commands
 Your IDE does a lot for you but it pays to know the cli commands.
 
 * `git fetch` fetches the latest state of the branches. You then know if you need to pull any changes
