@@ -1,5 +1,5 @@
 # Dependency Track
-Depencency Track is a tool that allows centralised monitoring of vulnerabilities imported through the dependencies of your applications. This tool bases his security analysis solely on a provided SBOM.
+Dependency Track is a tool that allows centralised monitoring of vulnerabilities imported through the dependencies of your applications. This tool bases his security analysis solely on a provided SBOM.
 
 An SBOM (Software Bill of Materials) is a "list of ingrediënts" that make up your software. This list is compared to a set of CVE reports to analyse the included vulnerabilities and their severity.
 
